@@ -36,3 +36,6 @@ The bot revokes roles from all users upon the expiration date. Therefore, even i
 The YAML file can be modified while the bot is running, any changes will be taken into account in real-time.
 
 --- 
+
+
+**CC BY**
