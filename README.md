@@ -30,9 +30,9 @@
 - Implement unlimited usage of passwords.
 - Create specific passwords for different roles.
 
-## **⚠️Important Note :** The bot revokes roles from all users upon the expiration date. Therefore, even if a user receives a role one day before expiration, it will be removed the following day.
+## **⚠️Important Note :**
 The bot revokes roles from all users upon the expiration date. Therefore, even if a user receives a role one day before expiration, it will be removed the following day.
 
-The YAML file can be modified while the bot is running; any changes will be taken into account in real-time.
+The YAML file can be modified while the bot is running, any changes will be taken into account in real-time.
 
 --- 
