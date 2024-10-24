@@ -38,4 +38,4 @@ The YAML file can be modified while the bot is running, any changes will be take
 --- 
 
 
-**CC BY**
+**MIT Lic**
